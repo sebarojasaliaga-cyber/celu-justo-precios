@@ -85,6 +85,80 @@
      "date": "2026-11-22"
     }
    ]
+  },
+  "rn17p": {
+   "offers": [
+    {
+     "store": "Paris",
+     "price": 359990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:7263213739838789533,productid:14755955518742511503,headlineOfferDocid:9624358341379231833,imageDocid:107998151773773166,rds:PC_17432375822797134387|PROD_PC_17432375822797134387,gpcid:17432375822797134387,mid:576462568132222208,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "Movistar",
+     "price": 359990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:10016574184889072209,headlineOfferDocid:10016574184889072209,imageDocid:8465575724576891451,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "Entel",
+     "price": 368643,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:6269335474180383897,headlineOfferDocid:6269335474180383897,imageDocid:3480402751508429675,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "Lider",
+     "price": 424990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:9464798403702851123,productid:6262745508184675169,headlineOfferDocid:1321749744955893220,imageDocid:4678746615013019371,rds:PC_9331661942423927513|PROD_PC_9331661942423927513,gpcid:832997857169497895,mid:576462915995972947,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "Hites",
+     "price": 434990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:10957339452583163777,productid:3158040518461220901,headlineOfferDocid:13073342723532054209,imageDocid:9300035328452526238,rds:PC_9331661942423927513|PROD_PC_9331661942423927513,gpcid:9331661942423927513,mid:576462575977433959,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "ABC",
+     "price": 459990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:16024031064251083597,headlineOfferDocid:16024031064251083597,imageDocid:15494025948971003829,rds:PC_1418712630791326214|PROD_PC_1418712630791326214,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "WOM",
+     "price": 460800,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:7803348274404947670,productid:17394067275709756392,headlineOfferDocid:17774853737301612132,imageDocid:16216658397633190382,gpcid:11859637357511808357,mid:576462916260502753,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "Ripley",
+     "price": 499990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:9987296670340551112,headlineOfferDocid:9987296670340551112,imageDocid:13013336057407625178,rds:PC_8762342981924770013|PROD_PC_8762342981924770013,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    }
+   ]
+  },
+  "s25u": {
+   "offers": [
+    {
+     "store": "Paris",
+     "price": 739990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=catalogid:6989543990076958112,productid:4069596434731943461,headlineOfferDocid:9447568894275975704,imageDocid:13268958370980128088,rds:PC_17817985598720773820|PROD_PC_17817985598720773820,gpcid:15779555590392737142,mid:576462576463240228,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "Falabella",
+     "price": 999990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=catalogid:3053314455835298783,productid:13110757088757574682,headlineOfferDocid:6590962799720635888,imageDocid:6778161653803909067,rds:PC_17817985598720773820|PROD_PC_17817985598720773820,gpcid:17817985598720773820,mid:576462810925288181,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "MercadoLibre",
+     "price": 1099990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=productid:17142625584251699150,headlineOfferDocid:17142625584251699150,imageDocid:1649954254489675341,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    }
+   ]
   }
  },
  "actualizado": "2026-11-22"
