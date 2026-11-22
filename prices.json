@@ -72,14 +72,14 @@
      "date": "2026-11-22"
     }
    ],
-   "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRlgiYtSCYjVKC7BuRD9mnW97Vo596Cjrk7T3oGthpTaQbOKR4sjIvL4iW6iZtWTR73T4J5fIfYGw6kE_5Eh30RAZPbANC5Pzh6NLl-5ZZfKw77p8uy-FFJEA"
+   "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTxH5EDoYEOJzts-J_PZc39ge9WiBwubqWlQcsZOi5M0XOQM6NfLqe7MTPTwxM0TAjHSYUAjpdpBkyeyG7J9XYT6PgIBldDicbsTkkcpFqCxOBqqYYUorue"
   },
   "rn14p": {
    "offers": [
     {
      "store": "Paris",
-     "price": 294990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 14 Pro 5G 256GB&prds=catalogid:11682002930591597175,productid:12904583780539013586,headlineOfferDocid:10350356588462009674,imageDocid:14398555912734494266,rds:PC_4530296023540953979|PROD_PC_4530296023540953979,gpcid:730473031381550079,pvt:hg&hl=es&gl=cl&udm=28",
+     "price": 249990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 14 Pro 5G 256GB&prds=catalogid:13851862280199698046,productid:15024561953423028652,headlineOfferDocid:9261040869802098249,imageDocid:3353870147743931156,rds:PC_7249837748568795661|PROD_PC_7249837748568795661,gpcid:7249837748568795661,mid:576462895415164688,pvt:hg&hl=es&gl=cl&udm=28",
      "date": "2026-11-22"
     },
     {
@@ -89,10 +89,16 @@
      "date": "2026-11-22"
     }
    ],
-   "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRcNIDeT0zjiPNTcgFHnnUSDEbZCC-CelYf-bHbYQ90xYX80dtsKWzbLnDyYNSZlheAuHqnF8i34Ce0VNVeJ5xLBqOH9iAJAw"
+   "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTV1vXFy9EWKM4Eyj36JJAFBIzE5MEgpKcsv4PWFY_FU_jJQ-JfuEGwaWX48-mWYM8NLuk-14CBjdGp5gZ163BTA4qr24xzR1EN6iswa0BZ"
   },
   "rn17p": {
    "offers": [
+    {
+     "store": "WOM",
+     "price": 316800,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:7263213739838789533,productid:14755955518742511503,headlineOfferDocid:14939552530822516828,imageDocid:107998151773773166,rds:PC_17432375822797134387|PROD_PC_17432375822797134387,gpcid:17432375822797134387,mid:576462568132222208,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
     {
      "store": "Paris",
      "price": 359990,
@@ -112,27 +118,21 @@
      "date": "2026-11-22"
     },
     {
-     "store": "Lider",
-     "price": 424990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:9464798403702851123,productid:6262745508184675169,headlineOfferDocid:1321749744955893220,imageDocid:4678746615013019371,rds:PC_9331661942423927513|PROD_PC_9331661942423927513,gpcid:832997857169497895,mid:576462915995972947,pvt:hg&hl=es&gl=cl&udm=28",
+     "store": "Hites",
+     "price": 434990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:2105669450217160714,productid:6103266564619417020,headlineOfferDocid:12309342000467655353,imageDocid:12529146874600894854,rds:PC_9331661942423927513|PROD_PC_9331661942423927513,gpcid:8072061450617894288,mid:576462576559351665,pvt:hg&hl=es&gl=cl&udm=28",
      "date": "2026-11-22"
     },
     {
-     "store": "Hites",
-     "price": 434990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:10957339452583163777,productid:3158040518461220901,headlineOfferDocid:13073342723532054209,imageDocid:9300035328452526238,rds:PC_9331661942423927513|PROD_PC_9331661942423927513,gpcid:9331661942423927513,mid:576462575977433959,pvt:hg&hl=es&gl=cl&udm=28",
+     "store": "MercadoLibre",
+     "price": 453663,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:16097807919224623167,headlineOfferDocid:16097807919224623167,imageDocid:12262688539423127233,pvt:hg&hl=es&gl=cl&udm=28",
      "date": "2026-11-22"
     },
     {
      "store": "ABC",
      "price": 459990,
      "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:16024031064251083597,headlineOfferDocid:16024031064251083597,imageDocid:15494025948971003829,rds:PC_1418712630791326214|PROD_PC_1418712630791326214,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
-    },
-    {
-     "store": "WOM",
-     "price": 460800,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:7803348274404947670,productid:17394067275709756392,headlineOfferDocid:17774853737301612132,imageDocid:16216658397633190382,gpcid:11859637357511808357,mid:576462916260502753,pvt:hg&hl=es&gl=cl&udm=28",
      "date": "2026-11-22"
     },
     {
@@ -147,9 +147,9 @@
   "s25u": {
    "offers": [
     {
-     "store": "Paris",
-     "price": 739990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=catalogid:6989543990076958112,productid:4069596434731943461,headlineOfferDocid:9447568894275975704,imageDocid:13268958370980128088,rds:PC_17817985598720773820|PROD_PC_17817985598720773820,gpcid:15779555590392737142,mid:576462576463240228,pvt:hg&hl=es&gl=cl&udm=28",
+     "store": "Entel",
+     "price": 699990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=catalogid:8388093536300703336,productid:17180629022183579334,headlineOfferDocid:18009579634539733949,imageDocid:2659837742871895811,rds:PC_17817985598720773820|PROD_PC_17817985598720773820,gpcid:17817985598720773820,mid:576462810925288181,pvt:hg&hl=es&gl=cl&udm=28",
      "date": "2026-11-22"
     },
     {
@@ -157,19 +157,41 @@
      "price": 999990,
      "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=catalogid:3053314455835298783,productid:13110757088757574682,headlineOfferDocid:6590962799720635888,imageDocid:6778161653803909067,rds:PC_17817985598720773820|PROD_PC_17817985598720773820,gpcid:17817985598720773820,mid:576462810925288181,pvt:hg&hl=es&gl=cl&udm=28",
      "date": "2026-11-22"
-    },
+    }
+   ],
+   "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJeV1p7hKRX6m4cmMxx9Phfjp_PuG_vQisK7rnbfRsE7CnduEsc8HUmcZdCpatvMERpht1wwfLNGU340EZqTraIyEat8bGDymAJW4qY0Oegqp-l3ZkQ_it"
+  },
+  "s25fe": {
+   "offers": [
     {
      "store": "MercadoLibre",
-     "price": 1099990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=productid:17142625584251699150,headlineOfferDocid:17142625584251699150,imageDocid:1649954254489675341,pvt:hg&hl=es&gl=cl&udm=28",
+     "price": 448104,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 FE 5G 256GB&prds=catalogid:3111527098797801518,productid:12290155078895717265,headlineOfferDocid:5276198726374330058,imageDocid:3100919345682776117,rds:PC_6936909708433979121|PROD_PC_6936909708433979121,gpcid:6936909708433979121,mid:576462917002267736,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "Entel",
+     "price": 559990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 FE 5G 256GB&prds=catalogid:18023799657854112856,productid:2949387011281594833,headlineOfferDocid:18342020209611096379,imageDocid:9537273607325127836,rds:PC_1660985253930641647|PROD_PC_1660985253930641647,gpcid:1660985253930641647,mid:576462915811835051,pvt:hg&hl=es&gl=cl&udm=28",
      "date": "2026-11-22"
     }
    ],
-   "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcShKRR-ytoxQ6Wn9VcS6JSEsxLBDskGW0AFMVttdgI3OxfKuqPsp_OrRBzZH46Ahv36HTdLCRosD-vLvMq-gxSycCKzVN-6Qw"
+   "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRg2pzQ-UoAWQcHBdg1Pz6i-WVM9IsE3LEf58TSGYCIKOREZVl8PyJoscHEWe0vcKcCKXzO66az6gEQ11SLu-R_OFHT2r94_X9zzOeSWYZ74d_tksCVCMnk"
   },
-  "s25fe": {},
   "x7p": {
    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSR53x3ZihUg1fiImI2VwtlEfU6-Gga7aJs0Dgtf47h1iySArLtuRtTfjf5BhRAJQ3ZgNz6doW_jR-mma7qN8-6eYozFtLbFMXxO3qAxkt-i8tvgncNdtA2"
+  },
+  "s26u": {
+   "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfFwZR62xXpFwbiG817Qsl3E23aooakB7aFkpJ1AYtLMnpRCeVb25Q5bIA1F-TjqvuFVWx59xKgkbi3Q94GBbbwSxa1D4tGKp8H76st2iOSiqCOShpiEStng"
+  },
+  "x17u": {
+   "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDeYR-1de6FmWhxR10AzDmboE7Q_RE7CCRcKQEo_4QCWu9X5gnqnmzwbX7MlZTDzVP5yKpoM8wKucTQxIGHseVpatHMqlSgp-WN63v5BUhrXelduBzleQT"
+  },
+  "p11p": {
+   "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT1FZKTSwx7DzqCfKepA2v1s9msLGQosKEbJaPQCOUnyxdQHv0GAY4HO7NUNqasnRkqKvgm_qiB0WOAfKV8Hy72GahCRUWShAZxh4BuZpuTEO17Y2PEd2Qn"
+  },
+  "fold8": {
+   "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8NCXPNDErL3surydn-8UavyscacFmOsNih8slSj0lCw-GskrxTUtsfDttgefY_opWRUmTq5KKueqW4THenLN5Bxhm0TWu_dj_kx4xmxwPMpwj68DYdZrBVA"
   }
  },
  "actualizado": "2026-11-22",
@@ -177,6 +199,10 @@
   "a26": 1,
   "x7p": 1,
   "x8p": 1,
-  "a57": 1
+  "a57": 1,
+  "s26u": 1,
+  "x17u": 1,
+  "p11p": 1,
+  "fold8": 1
  }
 }
