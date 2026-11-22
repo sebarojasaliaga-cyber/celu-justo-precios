@@ -1,0 +1,91 @@
+{
+ "phones": {
+  "x8p": {
+   "offers": [
+    {
+     "store": "Paris",
+     "price": 409990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X8 Pro 256GB&prds=catalogid:11207159446551631649,productid:11038633938573540136,headlineOfferDocid:6878919185963397393,imageDocid:2714021813639275017,rds:PC_3060021848644428111|PROD_PC_3060021848644428111,gpcid:3060021848644428111,mid:576462898570983759,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "MercadoLibre",
+     "price": 429990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X8 Pro 256GB&prds=catalogid:17455277323503381243,productid:15744781026289166796,headlineOfferDocid:15884772930387061326,imageDocid:7077099710777683874,gpcid:9695215658347867286,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "Falabella",
+     "price": 439990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X8 Pro 256GB&prds=catalogid:11207159446551631649,productid:11038633938573540136,headlineOfferDocid:15159188222918469061,imageDocid:2714021813639275017,rds:PC_3060021848644428111|PROD_PC_3060021848644428111,gpcid:3060021848644428111,mid:576462898570983759,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    }
+   ]
+  },
+  "a26": {
+   "offers": [
+    {
+     "store": "Paris",
+     "price": 149990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A26 5G 128GB&prds=catalogid:9509006337866753995,productid:6034546499648864220,headlineOfferDocid:2601224558216300817,imageDocid:12599767271418512709,rds:PC_17525312830161686849|PROD_PC_17525312830161686849,gpcid:12007333082725080101,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "Entel",
+     "price": 189990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A26 5G 128GB&prds=catalogid:12869953122596303868,productid:2499403446313675194,headlineOfferDocid:11567197193642625429,imageDocid:5693796312742243602,rds:PC_17525312830161686849|PROD_PC_17525312830161686849,gpcid:17525312830161686849,mid:576462819951395787,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    }
+   ]
+  },
+  "a57": {
+   "offers": [
+    {
+     "store": "Paris",
+     "price": 569990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A57 5G 256GB&prds=catalogid:14000779747075434658,productid:2431886757653725071,headlineOfferDocid:18342456928133201364,imageDocid:10150988537647407402,rds:PC_5217149473192476413|PROD_PC_5217149473192476413,gpcid:5217149473192476413,mid:576462883877467297,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "Falabella",
+     "price": 659990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A57 5G 256GB&prds=productid:17516668637710777335,headlineOfferDocid:17516668637710777335,imageDocid:1502010883674527632,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    }
+   ]
+  },
+  "ef60": {
+   "offers": [
+    {
+     "store": "Paris",
+     "price": 149990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Motorola Edge 60 Fusion 256GB&prds=catalogid:10043021790833375234,productid:12133241985149322681,headlineOfferDocid:6916591152092261823,imageDocid:6600077068472623191,rds:PC_2603474830222362736|PROD_PC_2603474830222362736,gpcid:2603474830222362736,mid:576462917247058262,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "MercadoLibre",
+     "price": 271629,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Motorola Edge 60 Fusion 256GB&prds=catalogid:1004705339538716170,productid:8257321638653570892,headlineOfferDocid:3225901222018785867,imageDocid:17566101017594521035,gpcid:230247345247987352,mid:576462895406543130,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    }
+   ]
+  },
+  "rn14p": {
+   "offers": [
+    {
+     "store": "Paris",
+     "price": 294990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 14 Pro 5G 256GB&prds=catalogid:11682002930591597175,productid:12904583780539013586,headlineOfferDocid:10350356588462009674,imageDocid:14398555912734494266,rds:PC_4530296023540953979|PROD_PC_4530296023540953979,gpcid:730473031381550079,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    },
+    {
+     "store": "MercadoLibre",
+     "price": 297326,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 14 Pro 5G 256GB&prds=productid:3007468613927294797,headlineOfferDocid:3007468613927294797,imageDocid:713435344583867130,rds:PC_15841855818940754269|PROD_PC_15841855818940754269,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-22"
+    }
+   ]
+  }
+ },
+ "actualizado": "2026-11-22"
+}
