@@ -26,6 +26,11 @@ MODELOS = {
     "s25u":  {"q": "Samsung Galaxy S25 Ultra 256GB",     "debe": ["s25", "ultra"], "gb": "256",  "ref": 769990},
     "s26u":  {"q": "Samsung Galaxy S26 Ultra 512GB",     "debe": ["s26", "ultra"], "gb": "512",  "ref": 1399990},
     "x17u":  {"q": "Xiaomi 17 Ultra 512GB",              "debe": ["17 ultra"],     "gb": "512",  "ref": 1299990},
+    # Solo para traer la foto (su precio viene de MSF Sale, no de este script)
+    "p11p":  {"q": "Google Pixel 11 Pro",               "debe": ["pixel 11 pro"], "no": ["xl", "fold"], "solo_img": True},
+    "fold8": {"q": "Samsung Galaxy Z Fold 8",           "debe": ["fold", "8"],    "solo_img": True},
+    "fx10":  {"q": "Oppo Find X10 Pro Max",              "debe": ["find x10", "max"], "solo_img": True},
+    "x500":  {"q": "Vivo X500 Pro Max",                  "debe": ["x500", "max"],  "solo_img": True},
     "x17":   {"q": "Xiaomi 17 512GB",                    "debe": ["xiaomi 17"],    "gb": "512",  "ref": 899990,
               "no": ["ultra", "17t", "17 pro", "17 max"]},
 }
@@ -57,6 +62,8 @@ def tienda_chilena(nombre):
 
 
 def almacenamiento_ok(titulo, gb):
+    if not gb:
+        return True
     t = norm(titulo)
     if gb in t:
         return True
@@ -92,6 +99,17 @@ def ofertas_de(data, m, hoy):
     return sorted(por_tienda.values(), key=lambda o: o["price"])
 
 
+def mejor_img(data, m):
+    """Foto del primer resultado que corresponde al modelo (miniatura de Google Shopping)."""
+    for it in data.get("shopping_results", []):
+        t = norm(it.get("title", ""))
+        img = it.get("thumbnail")
+        if img and all(p in t for p in m["debe"]) and not any(x in t for x in EXCLUIR + m.get("no", [])) \
+                and almacenamiento_ok(it.get("title", ""), m.get("gb")):
+            return img
+    return None
+
+
 def main():
     key = os.environ.get("SERPAPI_KEY", "").strip()
     if not key:
@@ -104,7 +122,7 @@ def main():
         salida = {"phones": {}}
     salida.setdefault("phones", {})
 
-    ids = sorted(MODELOS)
+    ids = sorted(k for k, m in MODELOS.items() if not m.get("solo_img"))
     inicio = (hoy.toordinal() * POR_DIA) % len(ids)
     hoy_ids = [ids[(inicio + i) % len(ids)] for i in range(min(POR_DIA, len(ids)))]
     print("Modelos de hoy:", ", ".join(hoy_ids))
@@ -120,9 +138,30 @@ def main():
             print(f"  {pid}: SerpApi dice {data['error']}")
             continue
         lista = ofertas_de(data, m, hoy.isoformat())
-        print(f"  {pid}: {len(lista)} tiendas -> " + ", ".join(f"{o['store']} {o['price']}" for o in lista))
+        img = mejor_img(data, m)
+        print(f"  {pid}: {len(lista)} tiendas, foto {'si' if img else 'no'} -> " + ", ".join(f"{o['store']} {o['price']}" for o in lista))
+        entrada = salida["phones"].setdefault(pid, {})
         if lista:  # si no salió nada útil, se conservan las ofertas anteriores
-            salida["phones"][pid] = {"offers": lista}
+            entrada["offers"] = lista
+        if img:
+            entrada["img"] = img
+
+    # Fotos que faltan (máx. 4 búsquedas por día y 2 intentos por modelo)
+    intentos = salida.setdefault("img_intentos", {})
+    faltan = [p for p in MODELOS if p not in hoy_ids
+              and not salida["phones"].get(p, {}).get("img") and intentos.get(p, 0) < 2]
+    for pid in faltan[:4]:
+        m = MODELOS[pid]
+        intentos[pid] = intentos.get(pid, 0) + 1
+        try:
+            data = buscar(m["q"], key)
+        except Exception as e:
+            print(f"  foto {pid}: error {e}")
+            continue
+        img = mejor_img(data, m)
+        print(f"  foto {pid}: {'si' if img else 'no'}")
+        if img:
+            salida["phones"].setdefault(pid, {})["img"] = img
     salida["actualizado"] = hoy.isoformat()
     with open(ARCHIVO, "w", encoding="utf-8") as f:
         json.dump(salida, f, ensure_ascii=False, indent=1)
