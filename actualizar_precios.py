@@ -3,7 +3,7 @@ Celu Justo: actualiza prices.json con precios de tiendas chilenas (Google Shoppi
 
 - Lee la clave desde la variable de entorno SERPAPI_KEY (en GitHub: un "secret").
 - Cada ejecución consulta solo POR_DIA modelos, rotando según el día, para no pasar
-  de las 250 búsquedas gratis al mes (5 por día = unas 150 al mes).
+  de las 250 búsquedas gratis al mes (5 por día = unas 150 al mes con 12 modelos).
 - Conserva las ofertas anteriores de los modelos que no toca ese día (cada oferta lleva su fecha).
 - Filtra: solo tiendas chilenas de la lista, almacenamiento correcto, precios fuera de rango.
 """
@@ -24,6 +24,10 @@ MODELOS = {
     "x8p":   {"q": "POCO X8 Pro 256GB",                  "debe": ["x8 pro"],       "gb": "256",  "ref": 449990},
     "a57":   {"q": "Samsung Galaxy A57 5G 256GB",        "debe": ["a57"],          "gb": "256",  "ref": 479990},
     "s25u":  {"q": "Samsung Galaxy S25 Ultra 256GB",     "debe": ["s25", "ultra"], "gb": "256",  "ref": 769990},
+    "s26u":  {"q": "Samsung Galaxy S26 Ultra 512GB",     "debe": ["s26", "ultra"], "gb": "512",  "ref": 1399990},
+    "x17u":  {"q": "Xiaomi 17 Ultra 512GB",              "debe": ["17 ultra"],     "gb": "512",  "ref": 1299990},
+    "x17":   {"q": "Xiaomi 17 512GB",                    "debe": ["xiaomi 17"],    "gb": "512",  "ref": 899990,
+              "no": ["ultra", "17t", "17 pro", "17 max"]},
 }
 
 # Tiendas chilenas aceptadas (se compara sin tildes ni mayúsculas) y cómo se muestran.
@@ -76,7 +80,7 @@ def ofertas_de(data, m, hoy):
         if not (precio and tienda):
             continue
         t = norm(titulo)
-        if not all(p in t for p in m["debe"]) or any(x in t for x in EXCLUIR):
+        if not all(p in t for p in m["debe"]) or any(x in t for x in EXCLUIR + m.get("no", [])):
             continue
         if not almacenamiento_ok(titulo, m["gb"]):
             continue
