@@ -5,23 +5,17 @@
     {
      "store": "Paris",
      "price": 409990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X8 Pro 256GB&prds=catalogid:11207159446551631649,productid:11038633938573540136,headlineOfferDocid:6878919185963397393,imageDocid:2714021813639275017,rds:PC_3060021848644428111|PROD_PC_3060021848644428111,gpcid:3060021848644428111,mid:576462898570983759,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
+     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X8 Pro 256GB&prds=catalogid:11554025722300690522,productid:13699400414483653265,headlineOfferDocid:6878919185963397393,imageDocid:2904481194281709041,rds:PC_3060021848644428111|PROD_PC_3060021848644428111,gpcid:3060021848644428111,mid:576462898570983759,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-23"
     },
     {
      "store": "MercadoLibre",
      "price": 429990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X8 Pro 256GB&prds=catalogid:17455277323503381243,productid:15744781026289166796,headlineOfferDocid:15884772930387061326,imageDocid:7077099710777683874,gpcid:9695215658347867286,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
-    },
-    {
-     "store": "Falabella",
-     "price": 439990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X8 Pro 256GB&prds=catalogid:11207159446551631649,productid:11038633938573540136,headlineOfferDocid:15159188222918469061,imageDocid:2714021813639275017,rds:PC_3060021848644428111|PROD_PC_3060021848644428111,gpcid:3060021848644428111,mid:576462898570983759,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
+     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X8 Pro 256GB&prds=catalogid:17455277323503381243,productid:15744781026289166796,headlineOfferDocid:15884772930387061326,imageDocid:7077099710777683874,gpcid:9695215658347867286,mid:576462917440692035,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-23"
     }
    ],
-   "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSUhvRW9-viAvhOaNMpp69GZPB8eHuE_z5pM_8E8cAYJPEBodkFRoHS95UMS0Fy_FdV5Y-zWrMbxH4oarARl2vd9sxFXFt1YVce9wJ2DXkj2ctG_4Q1J2gh"
+   "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTHfmuXJ-r9xkFZDH2tmLTgEOZIuP4sTWFQlUAmk5ybcH7S2GXU8XciuRq8GfcabFHeDt5Zu1dkHdWyUSBmhvLNEsWqsMNzBd2nNRcIMG9iZB6T3gl7vPJQ7w"
   },
   "a26": {
    "offers": [
@@ -179,22 +173,99 @@
    "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRg2pzQ-UoAWQcHBdg1Pz6i-WVM9IsE3LEf58TSGYCIKOREZVl8PyJoscHEWe0vcKcCKXzO66az6gEQ11SLu-R_OFHT2r94_X9zzOeSWYZ74d_tksCVCMnk"
   },
   "x7p": {
-   "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSR53x3ZihUg1fiImI2VwtlEfU6-Gga7aJs0Dgtf47h1iySArLtuRtTfjf5BhRAJQ3ZgNz6doW_jR-mma7qN8-6eYozFtLbFMXxO3qAxkt-i8tvgncNdtA2"
+   "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTixqZNQDumWeQk9-kDWbfZMo7h--IEuGIBWs1snCPWqGDE5BhfYq_E883tc7OY9kK7tHoriphs3oB7YNUQxqkMH8ukfswiI2hvwNO6iXxWH3p7rXSm9V_Q",
+   "offers": [
+    {
+     "store": "Paris",
+     "price": 344990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X7 Pro 256GB&prds=catalogid:2817877658077490965,productid:12727116658997410708,headlineOfferDocid:13538190789280205448,imageDocid:12653833531492176856,rds:PC_14713935248832623967|PROD_PC_14713935248832623967,gpcid:14713935248832623967,mid:576462892689292908,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-23"
+    },
+    {
+     "store": "Falabella",
+     "price": 424990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X7 Pro 256GB&prds=catalogid:3725562375834174135,productid:6250064780800110508,headlineOfferDocid:14851436732464449329,imageDocid:5847759052369803765,rds:PC_6186852630867991887|PROD_PC_6186852630867991887,gpcid:6186852630867991887,mid:576462913282667828,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-23"
+    }
+   ]
   },
   "s26u": {
-   "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfFwZR62xXpFwbiG817Qsl3E23aooakB7aFkpJ1AYtLMnpRCeVb25Q5bIA1F-TjqvuFVWx59xKgkbi3Q94GBbbwSxa1D4tGKp8H76st2iOSiqCOShpiEStng"
+   "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQDBiBTgqD7FarfdTX6LHzL4Mkj6sFYWn-pUHmbK6zOUkaoqfuWmTRcXAkT36DKFfc1wwm4uifgXypasLy0Fw-DZGfDti0T",
+   "offers": [
+    {
+     "store": "MercadoLibre",
+     "price": 1169707,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=productid:11082066466912453033,headlineOfferDocid:11082066466912453033,imageDocid:16454615220306031468,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-23"
+    },
+    {
+     "store": "Entel",
+     "price": 1489990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=catalogid:17149244371258034783,productid:14558699131187578360,headlineOfferDocid:12952871592562685542,imageDocid:15914110864768222253,rds:PC_16418233158843180078|PROD_PC_16418233158843180078,gpcid:7921279067385522700,mid:576462918715240170,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-23"
+    },
+    {
+     "store": "Falabella",
+     "price": 1699699,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=catalogid:6580358814868473265,productid:224183973117150972,headlineOfferDocid:12898804779736317524,imageDocid:17295788664613321537,rds:PC_16418233158843180078|PROD_PC_16418233158843180078,gpcid:16418233158843180078,mid:576462881578705767,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-23"
+    }
+   ]
   },
   "x17u": {
-   "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDeYR-1de6FmWhxR10AzDmboE7Q_RE7CCRcKQEo_4QCWu9X5gnqnmzwbX7MlZTDzVP5yKpoM8wKucTQxIGHseVpatHMqlSgp-WN63v5BUhrXelduBzleQT"
+   "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSTcTClTIXWDqVrpyRwLghHc4grEdpQRaWNX5XgC5RsGBYIHTQfII1gaGwJTz_5W_RlgBISXDAi3oJ6WQRCxhjAEg0CaEzid7klQMI4MnOhQ16WtoRfiATM",
+   "offers": [
+    {
+     "store": "Ripley",
+     "price": 1299990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi 17 Ultra 512GB&prds=productid:11889010899686347637,headlineOfferDocid:11889010899686347637,imageDocid:4940520364536291002,rds:PC_15376467509667381009|PROD_PC_15376467509667381009,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-23"
+    },
+    {
+     "store": "MercadoLibre",
+     "price": 1299990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi 17 Ultra 512GB&prds=productid:609683415734410537,headlineOfferDocid:609683415734410537,imageDocid:2096866702113589245,rds:PC_15376467509667381009|PROD_PC_15376467509667381009,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-23"
+    },
+    {
+     "store": "PC Factory",
+     "price": 1399990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi 17 Ultra 512GB&prds=productid:8074099447464014970,headlineOfferDocid:8074099447464014970,imageDocid:8996514858527801434,rds:PC_15376467509667381009|PROD_PC_15376467509667381009,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-23"
+    },
+    {
+     "store": "Falabella",
+     "price": 1449990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi 17 Ultra 512GB&prds=productid:12592040309982613053,headlineOfferDocid:12592040309982613053,imageDocid:806684349250820693,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-23"
+    }
+   ]
   },
   "p11p": {
    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT1FZKTSwx7DzqCfKepA2v1s9msLGQosKEbJaPQCOUnyxdQHv0GAY4HO7NUNqasnRkqKvgm_qiB0WOAfKV8Hy72GahCRUWShAZxh4BuZpuTEO17Y2PEd2Qn"
   },
   "fold8": {
    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8NCXPNDErL3surydn-8UavyscacFmOsNih8slSj0lCw-GskrxTUtsfDttgefY_opWRUmTq5KKueqW4THenLN5Bxhm0TWu_dj_kx4xmxwPMpwj68DYdZrBVA"
+  },
+  "x17": {
+   "offers": [
+    {
+     "store": "MercadoLibre",
+     "price": 870000,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi 17 512GB&prds=productid:17885912200819962448,headlineOfferDocid:17885912200819962448,imageDocid:11061245716769702495,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-23"
+    }
+   ],
+   "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQgERZYCiVsnFssY3ySgxNYMx5xMkCe97uklUpH-ChkplKAJimA4WTX3SBZT9Qmk95x9CuWPM6Bed_8g3aLiLeNNu4OYwo1EpiyZj_UjHnB73rMXfS6F_cE"
+  },
+  "fx10": {
+   "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSWeiAfL9LSo5-iCLRykkrMz8FboKn4HWBd8eDbikK_VO_Ue8ECA1M6kM7IxbBnKOonrUH4gczjkqcQm8W7qomAtWkqffyqV83y7iLq4pIb27tqrNA9V4Cv"
+  },
+  "x500": {
+   "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSq-At7YduGk9Aiw9VEGUrwefBml6XeN4chtZwYFt99CqA11aIxS_seN1s4z-GbDFYeq4QcxmAT5qKOh6TwiHfgVUmFP5PJIxxQqlLn0eVP-IEupTz7mnn4"
   }
  },
- "actualizado": "2026-11-22",
+ "actualizado": "2026-11-23",
  "img_intentos": {
   "a26": 1,
   "x7p": 1,
@@ -203,6 +274,8 @@
   "s26u": 1,
   "x17u": 1,
   "p11p": 1,
-  "fold8": 1
+  "fold8": 1,
+  "fx10": 1,
+  "x500": 1
  }
 }
