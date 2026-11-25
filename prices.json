@@ -153,19 +153,19 @@
   "s25u": {
    "offers": [
     {
-     "store": "Entel",
-     "price": 699990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=catalogid:8388093536300703336,productid:17180629022183579334,headlineOfferDocid:18009579634539733949,imageDocid:2659837742871895811,rds:PC_17817985598720773820|PROD_PC_17817985598720773820,gpcid:17817985598720773820,mid:576462810925288181,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
+     "store": "Paris",
+     "price": 739990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=productid:11794518987149317870,headlineOfferDocid:11794518987149317870,imageDocid:17132358256315917221,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-25"
     },
     {
-     "store": "Falabella",
-     "price": 999990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=catalogid:3053314455835298783,productid:13110757088757574682,headlineOfferDocid:6590962799720635888,imageDocid:6778161653803909067,rds:PC_17817985598720773820|PROD_PC_17817985598720773820,gpcid:17817985598720773820,mid:576462810925288181,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
+     "store": "Movistar",
+     "price": 879990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=catalogid:5343118450394764724,productid:11803855600572711920,headlineOfferDocid:12846409504772672634,imageDocid:14627235722649551003,rds:PC_17817985598720773820|PROD_PC_17817985598720773820,gpcid:17817985598720773820,mid:576462810925288181,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-25"
     }
    ],
-   "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTJeV1p7hKRX6m4cmMxx9Phfjp_PuG_vQisK7rnbfRsE7CnduEsc8HUmcZdCpatvMERpht1wwfLNGU340EZqTraIyEat8bGDymAJW4qY0Oegqp-l3ZkQ_it"
+   "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZEE9DbQGULVUwnft4aT6m3Mkvou91soYVnoBDa_onjJs44ECfwr0FOIgQZbo52XhaDZYkyMFsh6Sb5K2OWzoog4Xf4EAB"
   },
   "s25fe": {
    "offers": [
@@ -202,30 +202,36 @@
    ]
   },
   "s26u": {
-   "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQDBiBTgqD7FarfdTX6LHzL4Mkj6sFYWn-pUHmbK6zOUkaoqfuWmTRcXAkT36DKFfc1wwm4uifgXypasLy0Fw-DZGfDti0T",
+   "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRJTjamS64lZiLznGxPDF8TwQ_fkdDbQDgBvB_UzYjJXJK70cT3KRa_sNEU7OZDdjzSnEfTOhO1ZRdFTT2VPCccXh-wvWWOKvT0e0fo6MJyjRHtiEunpUCt",
    "offers": [
     {
      "store": "MercadoLibre",
      "price": 1169707,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=productid:11082066466912453033,headlineOfferDocid:11082066466912453033,imageDocid:16454615220306031468,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-23"
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=productid:4310776222598260569,headlineOfferDocid:4310776222598260569,imageDocid:8176540710035501509,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-25"
     },
     {
-     "store": "Entel",
-     "price": 1489990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=catalogid:17149244371258034783,productid:14558699131187578360,headlineOfferDocid:12952871592562685542,imageDocid:15914110864768222253,rds:PC_16418233158843180078|PROD_PC_16418233158843180078,gpcid:7921279067385522700,mid:576462918715240170,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-23"
+     "store": "Paris",
+     "price": 1399990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=catalogid:12743907380496615165,productid:12344592312667657884,headlineOfferDocid:9898970664206777479,imageDocid:5569833237481857433,rds:PC_16418233158843180078|PROD_PC_16418233158843180078,gpcid:16418233158843180078,mid:576462881578705767,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-25"
+    },
+    {
+     "store": "Lider",
+     "price": 1470990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=catalogid:12743907380496615165,productid:12344592312667657884,headlineOfferDocid:7562386001072687767,imageDocid:5569833237481857433,rds:PC_16418233158843180078|PROD_PC_16418233158843180078,gpcid:16418233158843180078,mid:576462881578705767,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-25"
     },
     {
      "store": "Falabella",
-     "price": 1699699,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=catalogid:6580358814868473265,productid:224183973117150972,headlineOfferDocid:12898804779736317524,imageDocid:17295788664613321537,rds:PC_16418233158843180078|PROD_PC_16418233158843180078,gpcid:16418233158843180078,mid:576462881578705767,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-23"
+     "price": 1759990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=catalogid:12743907380496615165,productid:12344592312667657884,headlineOfferDocid:12898804779736317524,imageDocid:5569833237481857433,rds:PC_16418233158843180078|PROD_PC_16418233158843180078,gpcid:16418233158843180078,mid:576462881578705767,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-25"
     }
    ]
   },
   "x17u": {
-   "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSTcTClTIXWDqVrpyRwLghHc4grEdpQRaWNX5XgC5RsGBYIHTQfII1gaGwJTz_5W_RlgBISXDAi3oJ6WQRCxhjAEg0CaEzid7klQMI4MnOhQ16WtoRfiATM",
+   "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTHd2NUc4A9HoiH72cmxasfsXMvANyWFwhGG2gCvTpPUG1Ew0Bq92vsR7vTLRwR3T6rxv_3RYNBEJnOEbnylazcdnosiipkzB8rhPOu7nGDOSWUifJs3piA",
    "offers": [
     {
      "store": "Ripley",
@@ -277,7 +283,7 @@
    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSq-At7YduGk9Aiw9VEGUrwefBml6XeN4chtZwYFt99CqA11aIxS_seN1s4z-GbDFYeq4QcxmAT5qKOh6TwiHfgVUmFP5PJIxxQqlLn0eVP-IEupTz7mnn4"
   }
  },
- "actualizado": "2026-11-24",
+ "actualizado": "2026-11-25",
  "img_intentos": {
   "a26": 1,
   "x7p": 1,
