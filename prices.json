@@ -5,17 +5,17 @@
     {
      "store": "Paris",
      "price": 409990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X8 Pro 256GB&prds=catalogid:11554025722300690522,productid:13699400414483653265,headlineOfferDocid:6878919185963397393,imageDocid:2904481194281709041,rds:PC_3060021848644428111|PROD_PC_3060021848644428111,gpcid:3060021848644428111,mid:576462898570983759,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-23"
+     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X8 Pro 256GB&prds=catalogid:1163159993727981368,productid:6135609646961460257,headlineOfferDocid:6878919185963397393,imageDocid:10312484471822624925,gpcid:3060021848644428111,mid:576462898570983759,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-26"
     },
     {
      "store": "MercadoLibre",
      "price": 429990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X8 Pro 256GB&prds=catalogid:17455277323503381243,productid:15744781026289166796,headlineOfferDocid:15884772930387061326,imageDocid:7077099710777683874,gpcid:9695215658347867286,mid:576462917440692035,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-23"
+     "url": "https://www.google.cl/search?ibp=oshop&q=POCO X8 Pro 256GB&prds=catalogid:17455277323503381243,productid:15744781026289166796,headlineOfferDocid:15884772930387061326,imageDocid:7077099710777683874,rds:PC_9695215658347867286|PROD_PC_9695215658347867286,gpcid:9695215658347867286,mid:576462917440692035,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-26"
     }
    ],
-   "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTHfmuXJ-r9xkFZDH2tmLTgEOZIuP4sTWFQlUAmk5ybcH7S2GXU8XciuRq8GfcabFHeDt5Zu1dkHdWyUSBmhvLNEsWqsMNzBd2nNRcIMG9iZB6T3gl7vPJQ7w"
+   "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSUhvRW9-viAvhOaNMpp69GZPB8eHuE_z5pM_8E8cAYJPEBodkFRoHS95UMS0Fy_FdV5Y-zWrMbxH4oarARl2vd9sxFXFt1YVce9wJ2DXkj2ctG_4Q1J2gh"
   },
   "a26": {
    "offers": [
@@ -43,25 +43,43 @@
   "a57": {
    "offers": [
     {
+     "store": "MercadoLibre",
+     "price": 444791,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A57 5G 256GB&prds=productid:8448897443601872901,headlineOfferDocid:8448897443601872901,imageDocid:11120416189945139187,rds:PC_5217149473192476413|PROD_PC_5217149473192476413,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-26"
+    },
+    {
      "store": "WOM",
      "price": 460800,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A57 5G 256GB&prds=catalogid:5723610457697038799,productid:8467178064678880292,headlineOfferDocid:4965042709629590912,imageDocid:10408879270631666520,rds:PC_5217149473192476413|PROD_PC_5217149473192476413,gpcid:372758594381205777,mid:576462917440676093,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-24"
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A57 5G 256GB&prds=catalogid:4242757073017966204,productid:12004223207832695009,headlineOfferDocid:4965042709629590912,imageDocid:10408879270631666520,gpcid:5217149473192476413,mid:576462883877467297,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-26"
+    },
+    {
+     "store": "Claro",
+     "price": 469900,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A57 5G 256GB&prds=productid:17497835962909156164,headlineOfferDocid:17497835962909156164,imageDocid:2697461839649208663,rds:PC_5217149473192476413|PROD_PC_5217149473192476413,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-26"
+    },
+    {
+     "store": "Movistar",
+     "price": 469990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A57 5G 256GB&prds=catalogid:4242757073017966204,productid:12004223207832695009,headlineOfferDocid:2713754825910832538,imageDocid:10408879270631666520,gpcid:5217149473192476413,mid:576462883877467297,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-26"
+    },
+    {
+     "store": "Hites",
+     "price": 499990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A57 5G 256GB&prds=catalogid:4242757073017966204,productid:12004223207832695009,headlineOfferDocid:3867261711582028045,imageDocid:10408879270631666520,gpcid:5217149473192476413,mid:576462883877467297,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-26"
     },
     {
      "store": "Falabella",
      "price": 554990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A57 5G 256GB&prds=productid:1378370901119818239,headlineOfferDocid:1378370901119818239,imageDocid:6588435750034881846,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-24"
-    },
-    {
-     "store": "Paris",
-     "price": 569990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A57 5G 256GB&prds=catalogid:14000779747075434658,productid:2431886757653725071,headlineOfferDocid:18342456928133201364,imageDocid:10150988537647407402,rds:PC_5217149473192476413|PROD_PC_5217149473192476413,gpcid:5217149473192476413,mid:576462883877467297,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-24"
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy A57 5G 256GB&prds=productid:1378370901119818239,headlineOfferDocid:1378370901119818239,imageDocid:6588435750034881846,rds:PC_5217149473192476413|PROD_PC_5217149473192476413,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-26"
     }
    ],
-   "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROuDhggFxQk0QhdZfXlG8NX4VxDuog1NxyyYGyj9xZs-XIL5-x2aoNyIX2R6MM_NHSKmaD71efUA_DubfBrvT9hACvnybQCHzfTBMRp-twWDVH_wRfMdXz5g"
+   "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQRK2PqJ9PZGK-NmYlMKheWIRKYMTiOn7uVZ-vwBStcn6tnzeO63aZW4g8ejTyku_MpY9vov12vajmgyBXwvyYMnt2O_QxFmg"
   },
   "ef60": {
    "offers": [
@@ -283,7 +301,7 @@
    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSq-At7YduGk9Aiw9VEGUrwefBml6XeN4chtZwYFt99CqA11aIxS_seN1s4z-GbDFYeq4QcxmAT5qKOh6TwiHfgVUmFP5PJIxxQqlLn0eVP-IEupTz7mnn4"
   }
  },
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-26",
  "img_intentos": {
   "a26": 1,
   "x7p": 1,
