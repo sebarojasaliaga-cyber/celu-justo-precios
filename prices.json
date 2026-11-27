@@ -118,55 +118,67 @@
   "rn17p": {
    "offers": [
     {
+     "store": "Claro",
+     "price": 299760,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:18049452515518962194,headlineOfferDocid:18049452515518962194,imageDocid:2612341846148869077,rds:PC_17432375822797134387|PROD_PC_17432375822797134387,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
+    },
+    {
      "store": "WOM",
      "price": 316800,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:7263213739838789533,productid:14755955518742511503,headlineOfferDocid:14939552530822516828,imageDocid:107998151773773166,rds:PC_17432375822797134387|PROD_PC_17432375822797134387,gpcid:17432375822797134387,mid:576462568132222208,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:952065569576356695,productid:13980801979228399465,headlineOfferDocid:14939552530822516828,imageDocid:3577053052896985493,rds:PC_17432375822797134387|PROD_PC_17432375822797134387,gpcid:6555266441567511654,mid:576462568132222208,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
+    },
+    {
+     "store": "Movistar",
+     "price": 329990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:10016574184889072209,headlineOfferDocid:10016574184889072209,imageDocid:8465575724576891451,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
+    },
+    {
+     "store": "Entel",
+     "price": 329990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:1536050072676682118,headlineOfferDocid:1536050072676682118,imageDocid:660467530457004276,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
+    },
+    {
+     "store": "MercadoLibre",
+     "price": 329990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:15894280439756184846,headlineOfferDocid:15894280439756184846,imageDocid:15312806292324427995,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
+    },
+    {
+     "store": "ABC",
+     "price": 349990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:9769882068523430340,headlineOfferDocid:9769882068523430340,imageDocid:9212339664274111825,rds:PC_16862595840481928841|PROD_PC_16862595840481928841,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
     },
     {
      "store": "Paris",
      "price": 359990,
      "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:7263213739838789533,productid:14755955518742511503,headlineOfferDocid:9624358341379231833,imageDocid:107998151773773166,rds:PC_17432375822797134387|PROD_PC_17432375822797134387,gpcid:17432375822797134387,mid:576462568132222208,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
+     "date": "2026-11-27"
     },
     {
-     "store": "Movistar",
-     "price": 359990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:10016574184889072209,headlineOfferDocid:10016574184889072209,imageDocid:8465575724576891451,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
-    },
-    {
-     "store": "Entel",
-     "price": 368643,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:6269335474180383897,headlineOfferDocid:6269335474180383897,imageDocid:3480402751508429675,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
+     "store": "Lider",
+     "price": 424990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:10957339452583163777,productid:3158040518461220901,headlineOfferDocid:16943443562025340387,imageDocid:6032466635777919959,rds:PC_9331661942423927513|PROD_PC_9331661942423927513,gpcid:9331661942423927513,mid:576462575977433959,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
     },
     {
      "store": "Hites",
-     "price": 434990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:2105669450217160714,productid:6103266564619417020,headlineOfferDocid:12309342000467655353,imageDocid:12529146874600894854,rds:PC_9331661942423927513|PROD_PC_9331661942423927513,gpcid:8072061450617894288,mid:576462576559351665,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
-    },
-    {
-     "store": "MercadoLibre",
-     "price": 453663,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:16097807919224623167,headlineOfferDocid:16097807919224623167,imageDocid:12262688539423127233,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
-    },
-    {
-     "store": "ABC",
-     "price": 459990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:16024031064251083597,headlineOfferDocid:16024031064251083597,imageDocid:15494025948971003829,rds:PC_1418712630791326214|PROD_PC_1418712630791326214,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
+     "price": 424990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=catalogid:10957339452583163777,productid:3158040518461220901,headlineOfferDocid:12309342000467655353,imageDocid:6032466635777919959,rds:PC_9331661942423927513|PROD_PC_9331661942423927513,gpcid:9331661942423927513,mid:576462575977433959,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
     },
     {
      "store": "Ripley",
-     "price": 499990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:9987296670340551112,headlineOfferDocid:9987296670340551112,imageDocid:13013336057407625178,rds:PC_8762342981924770013|PROD_PC_8762342981924770013,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
+     "price": 449990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Xiaomi Redmi Note 17 Pro 5G 256GB&prds=productid:9987296670340551112,headlineOfferDocid:9987296670340551112,imageDocid:13013336057407625178,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
     }
    ],
-   "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQpWzbuKSQ8K9fpZHS9f8__GGt-f0bQeM9nXwrsqrm0I8GlqWTyCryxFOP3e7vrb-uVodISWfA71XhkhSpEl29X7fXG63PrnWT1FwPS0qDIgkc0Rhr6s-6D"
+   "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTRWS-OLrKoprfa2xFQB439LdfC45FXnqhMVDb0K49bjXMsWb_3K9PnaxJYDy5rxMhhKx5ApDUTShzF82z5Qa3ulfhLy1Rf8hxPE4jZVpBHFRRE3ClfFhBW"
   },
   "s25u": {
    "offers": [
@@ -174,33 +186,39 @@
      "store": "Paris",
      "price": 739990,
      "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=productid:11794518987149317870,headlineOfferDocid:11794518987149317870,imageDocid:17132358256315917221,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-25"
-    },
-    {
-     "store": "Movistar",
-     "price": 879990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 Ultra 256GB&prds=catalogid:5343118450394764724,productid:11803855600572711920,headlineOfferDocid:12846409504772672634,imageDocid:14627235722649551003,rds:PC_17817985598720773820|PROD_PC_17817985598720773820,gpcid:17817985598720773820,mid:576462810925288181,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-25"
+     "date": "2026-11-27"
     }
    ],
-   "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRZEE9DbQGULVUwnft4aT6m3Mkvou91soYVnoBDa_onjJs44ECfwr0FOIgQZbo52XhaDZYkyMFsh6Sb5K2OWzoog4Xf4EAB"
+   "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQorYuUBcx1h1uE5JMOiADZxFq4364ITfnY29GDNDQX-gGvwLhoQ1vp8WQPC5XFoXd3GdyXSF-ijhZPCw6mRw4vgQjUvSuMJUFoj1GdrL_LAX9lpXpLpqxk"
   },
   "s25fe": {
    "offers": [
     {
-     "store": "MercadoLibre",
-     "price": 448104,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 FE 5G 256GB&prds=catalogid:3111527098797801518,productid:12290155078895717265,headlineOfferDocid:5276198726374330058,imageDocid:3100919345682776117,rds:PC_6936909708433979121|PROD_PC_6936909708433979121,gpcid:6936909708433979121,mid:576462917002267736,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
+     "store": "ABC",
+     "price": 519990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 FE 5G 256GB&prds=catalogid:3111527098797801518,productid:12290155078895717265,headlineOfferDocid:9829413601601940569,imageDocid:18331410059053440632,rds:PC_6936909708433979121|PROD_PC_6936909708433979121,gpcid:17513337861642465819,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
     },
     {
-     "store": "Entel",
-     "price": 559990,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 FE 5G 256GB&prds=catalogid:18023799657854112856,productid:2949387011281594833,headlineOfferDocid:18342020209611096379,imageDocid:9537273607325127836,rds:PC_1660985253930641647|PROD_PC_1660985253930641647,gpcid:1660985253930641647,mid:576462915811835051,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-22"
+     "store": "Falabella",
+     "price": 529990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 FE 5G 256GB&prds=catalogid:18023799657854112856,productid:2949387011281594833,headlineOfferDocid:18199606498324283367,imageDocid:12793454058555175994,rds:PC_1660985253930641647|PROD_PC_1660985253930641647,gpcid:150266475201912911,mid:576462915811835051,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
+    },
+    {
+     "store": "MercadoLibre",
+     "price": 595672,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 FE 5G 256GB&prds=catalogid:3111527098797801518,productid:12290155078895717265,headlineOfferDocid:16582169742651285467,imageDocid:18331410059053440632,rds:PC_6936909708433979121|PROD_PC_6936909708433979121,gpcid:17513337861642465819,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
+    },
+    {
+     "store": "Paris",
+     "price": 619990,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S25 FE 5G 256GB&prds=catalogid:1253631557380110982,productid:1209684733860355018,headlineOfferDocid:15328080813112467744,imageDocid:17257580077417470703,rds:PC_12892579749760189975|PROD_PC_12892579749760189975,gpcid:12892579749760189975,mid:576462576486532760,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
     }
    ],
-   "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRg2pzQ-UoAWQcHBdg1Pz6i-WVM9IsE3LEf58TSGYCIKOREZVl8PyJoscHEWe0vcKcCKXzO66az6gEQ11SLu-R_OFHT2r94_X9zzOeSWYZ74d_tksCVCMnk"
+   "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ8SQm521l3skOOdEmPrZP1v9ALv31hMklaQmLNOyPcqN5r-jcQU5rTsL0ivnhj19A1FgI7bK45S5YAjfnluYE-3rT1p4iV6xdbygyq3mmLyGGSW8L-UIjIBw"
   },
   "x7p": {
    "img": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTixqZNQDumWeQk9-kDWbfZMo7h--IEuGIBWs1snCPWqGDE5BhfYq_E883tc7OY9kK7tHoriphs3oB7YNUQxqkMH8ukfswiI2hvwNO6iXxWH3p7rXSm9V_Q",
@@ -224,27 +242,33 @@
    "offers": [
     {
      "store": "MercadoLibre",
-     "price": 1169707,
-     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=productid:4310776222598260569,headlineOfferDocid:4310776222598260569,imageDocid:8176540710035501509,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-25"
+     "price": 1052015,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=productid:4436754056258247947,headlineOfferDocid:4436754056258247947,imageDocid:7316002740609393526,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
+    },
+    {
+     "store": "Claro",
+     "price": 1198900,
+     "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=productid:13418207119259182678,headlineOfferDocid:13418207119259182678,imageDocid:17737347708840094420,rds:PC_16418233158843180078|PROD_PC_16418233158843180078,pvt:hg&hl=es&gl=cl&udm=28",
+     "date": "2026-11-27"
     },
     {
      "store": "Paris",
      "price": 1399990,
      "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=catalogid:12743907380496615165,productid:12344592312667657884,headlineOfferDocid:9898970664206777479,imageDocid:5569833237481857433,rds:PC_16418233158843180078|PROD_PC_16418233158843180078,gpcid:16418233158843180078,mid:576462881578705767,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-25"
+     "date": "2026-11-27"
     },
     {
      "store": "Lider",
      "price": 1470990,
      "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=catalogid:12743907380496615165,productid:12344592312667657884,headlineOfferDocid:7562386001072687767,imageDocid:5569833237481857433,rds:PC_16418233158843180078|PROD_PC_16418233158843180078,gpcid:16418233158843180078,mid:576462881578705767,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-25"
+     "date": "2026-11-27"
     },
     {
      "store": "Falabella",
      "price": 1759990,
      "url": "https://www.google.cl/search?ibp=oshop&q=Samsung Galaxy S26 Ultra 512GB&prds=catalogid:12743907380496615165,productid:12344592312667657884,headlineOfferDocid:12898804779736317524,imageDocid:5569833237481857433,rds:PC_16418233158843180078|PROD_PC_16418233158843180078,gpcid:16418233158843180078,mid:576462881578705767,pvt:hg&hl=es&gl=cl&udm=28",
-     "date": "2026-11-25"
+     "date": "2026-11-27"
     }
    ]
   },
@@ -301,7 +325,7 @@
    "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSq-At7YduGk9Aiw9VEGUrwefBml6XeN4chtZwYFt99CqA11aIxS_seN1s4z-GbDFYeq4QcxmAT5qKOh6TwiHfgVUmFP5PJIxxQqlLn0eVP-IEupTz7mnn4"
   }
  },
- "actualizado": "2026-11-26",
+ "actualizado": "2026-11-27",
  "img_intentos": {
   "a26": 1,
   "x7p": 1,
